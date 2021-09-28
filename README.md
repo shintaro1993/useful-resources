@@ -29,6 +29,9 @@ hogehoge
 ## GitHub
 - [GitHub Docs](https://docs.github.com/ja)
 
+## Vim
+- [Vim日本語ガイド](https://vim-jp.org/vimdoc-ja/)
+
 ## 環境
 - [Vagrant Docs](https://www.vagrantup.com/docs)
 
