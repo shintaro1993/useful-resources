@@ -44,6 +44,10 @@ hogehoge
 ## CS
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [OSSU](https://github.com/shintaro1993/computer-science)
+
+### CS Tools
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ### コンピュータ・ネットワーク
 - [CS144, Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
@@ -51,6 +55,12 @@ hogehoge
 
 ### データベース
 - [CS186Berkeley](https://www.youtube.com/user/CS186Berkeley/playlists)
+
+### Software Debugging
+- [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+
+### Software Testing
+- [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 
 ## 記事
 
