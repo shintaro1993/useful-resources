@@ -9,8 +9,10 @@ hogehoge
 ## Web
 - [MDN Web Docs](https://developer.mozilla.org/ja/)
 
-## Android
+## Android Development
 - [Android Developers](https://developer.android.com/)
+- [Developing Android Apps with Kotlin by Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+- [Advanced Android with Kotlin by Google](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 
 ## Python
 - [PEPs](https://www.python.org/dev/peps/)
