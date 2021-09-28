@@ -35,6 +35,11 @@ hogehoge
 
 ## 記事
 
+### リソース
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?s=09&utm_source=pocket_mylist)
+- [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md?utm_source=pocket_mylist)
+- [Best Websites a programmer should visit ]()
+
 ### プログラマとは
 - [後で使うから取っておくために](https://logmi.jp/tech/articles/325059)
 - [競技プログラミングを終わらせる](https://nuc.hatenadiary.org/entry/2021/03/31)
