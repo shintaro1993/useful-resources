@@ -32,3 +32,19 @@ hogehoge
 
 ## 困ったとき
 - [Stack Overflow](https://stackoverflow.com/)
+
+## 記事
+
+### プログラマとは
+- [後で使うから取っておくために](https://logmi.jp/tech/articles/325059)
+- [競技プログラミングを終わらせる](https://nuc.hatenadiary.org/entry/2021/03/31)
+
+### 本
+- [技術力をあげたいプログラマが読んでおかないと話にならない本10冊](https://nowokay.hatenablog.com/entry/20101125/1290645918)
+- [関数を扱えることはどのようにプログラミング言語の能力をあげるか](https://nowokay.hatenablog.com/entry/20130807/1375879662)
+- [「プログラミング言語の基礎概念」という本が非常にお気に入り](https://nowokay.hatenablog.com/entry/20111221/1324440641)
+- [プログラマとして仕事をするときに勉強したほうがいいもの](https://nowokay.hatenablog.com/entry/20100618/1276773592)
+- [プログラマならいつかは読んでおきたい(と言っておけばかっこいい)本10冊](https://nowokay.hatenablog.com/entry/20101126/1290732424)
+- [プログラマが勉強すること](https://nowokay.hatenablog.com/entry/20140228/1393568286)
+- [4月にプログラム始めた人がゴールデンウィークに積んでおく本](https://nowokay.hatenablog.com/entry/20120425/1335353327)
+- [プログラマの実力は経験だけであがらないことがレベル格差につながる](https://nowokay.hatenablog.com/entry/20121010/1349838665)
