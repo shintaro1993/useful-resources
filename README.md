@@ -43,6 +43,8 @@ hogehoge
 
 ## CS
 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
 ### コンピュータ・ネットワーク
 - [CS144, Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
 - [Computer Networking: A Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
