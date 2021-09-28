@@ -6,7 +6,7 @@ hogehoge
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Facebook for developers](https://developers.facebook.com/)
 
-## Web系
+## Web
 - [MDN Web Docs](https://developer.mozilla.org/ja/)
 
 ## Android
