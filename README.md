@@ -41,6 +41,15 @@ hogehoge
 - [LeetCode](https://leetcode.com/explore/learn/)
 - [The HackerRank Interview Preparetion kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
+## CS
+
+### コンピュータ・ネットワーク
+- [CS144, Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
+- [Computer Networking: A Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+
+### データベース
+- [CS186Berkeley](https://www.youtube.com/user/CS186Berkeley/playlists)
+
 ## 記事
 
 ### リソース
