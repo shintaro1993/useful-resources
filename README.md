@@ -38,6 +38,8 @@ hogehoge
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 - [Google Careers](https://careersonair.withgoogle.com/)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/introduction/?utm_source=pocket_mylist)
+- [LeetCode](https://leetcode.com/explore/learn/)
+- [The HackerRank Interview Preparetion kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
 ## 記事
 
