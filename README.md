@@ -39,13 +39,14 @@ hogehoge
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?s=09&utm_source=pocket_mylist)
 - [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md?utm_source=pocket_mylist)
 - [Best Websites a programmer should visit ](https://github.com/shintaro1993/Best-websites-a-programmer-should-visit?utm_source=pocket_mylist)
-- [influential cs book](https://github.com/cs-books/influential-cs-books?utm_source=pocket_mylist)
+- [Most influential books for programmers](https://github.com/cs-books/influential-cs-books?utm_source=pocket_mylist)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
 
 ### プログラマとは
 - [後で使うから取っておくために](https://logmi.jp/tech/articles/325059)
 - [競技プログラミングを終わらせる](https://nuc.hatenadiary.org/entry/2021/03/31)
 
-### 本
+### おすすめ本
 - [技術力をあげたいプログラマが読んでおかないと話にならない本10冊](https://nowokay.hatenablog.com/entry/20101125/1290645918)
 - [関数を扱えることはどのようにプログラミング言語の能力をあげるか](https://nowokay.hatenablog.com/entry/20130807/1375879662)
 - [「プログラミング言語の基礎概念」という本が非常にお気に入り](https://nowokay.hatenablog.com/entry/20111221/1324440641)
