@@ -33,6 +33,12 @@ hogehoge
 ## 困ったとき
 - [Stack Overflow](https://stackoverflow.com/)
 
+## キャリア・コーディングインタビュー
+- [Google Build for your feauture](https://buildyourfuture.withgoogle.com/)
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+- [Google Careers](https://careersonair.withgoogle.com/)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/introduction/?utm_source=pocket_mylist)
+
 ## 記事
 
 ### リソース
