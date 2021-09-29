@@ -83,7 +83,7 @@ hogehoge
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md)
 
 ### プログラマとは
-- [後で使うから取っておくために](https://logmi.jp/tech/articles/325059)
+- [プログラミングは「わからんけど、そのまま打ち込む」](https://logmi.jp/tech/articles/325059)
 - [競技プログラミングを終わらせる](https://nuc.hatenadiary.org/entry/2021/03/31)
 
 ### rui ueyama
