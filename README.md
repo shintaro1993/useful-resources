@@ -86,6 +86,19 @@ hogehoge
 - [後で使うから取っておくために](https://logmi.jp/tech/articles/325059)
 - [競技プログラミングを終わらせる](https://nuc.hatenadiary.org/entry/2021/03/31)
 
+### rui ueyama
+- [転職して7年が過ぎた](http://blog.sigbus.info/2016/03/seven-years.html?m=1)
+- [Lispはなんとなくすごそうというイメージがあるけど実際にはそれほどでもない](http://blog.sigbus.info/2010/02/lisp.html?m=1)
+- [インポスター・シンドローム](http://blog.sigbus.info/2015/01/blog-post_16.html?m=1)
+- [コードを削除したら喜ぶべき。知らない人がみたら意味不明なコードが残っていませんか？](http://blog.sigbus.info/2015/01/blog-post_29.html?m=1)
+- [ダメなコードを改造しなくてはいけなくなったときは、ダメさを片っ端から潰していくしかない](http://blog.sigbus.info/2015/03/badcode.html?m=1)
+- [コードを書くことは無限の可能性を捨てて一つのやり方を選ぶということ](http://blog.sigbus.info/2015/01/p1.html?m=1)
+- [作りたいものを作るには結局大量のコードを書かないといけないことについて](http://blog.sigbus.info/2014/11/blog-post.html?m=1)
+- [難しいプログラムでは自分がいままで書いたコードやこれから書くコードが正しく動くと信じて残りのコードを書く必要がある](http://blog.sigbus.info/2014/11/blog-post_15.html?m=1)
+- [正しくオブジェクト指向できているどうかという意味のない議論](http://blog.sigbus.info/2014/12/blog-post_28.html?m=1)
+- [どのようにして僕はプログラマになったのか思い出してみた](http://blog.sigbus.info/2015/01/blog-post.html?m=1)
+- [Gouche - A Scheme Implementation](http://practical-scheme.net/gauche/index-j.html)
+
 ### おすすめ本
 - [技術力をあげたいプログラマが読んでおかないと話にならない本10冊](https://nowokay.hatenablog.com/entry/20101125/1290645918)
 - [関数を扱えることはどのようにプログラミング言語の能力をあげるか](https://nowokay.hatenablog.com/entry/20130807/1375879662)
