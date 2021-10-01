@@ -109,3 +109,4 @@ hogehoge
 - [プログラマが勉強すること](https://nowokay.hatenablog.com/entry/20140228/1393568286)
 - [4月にプログラム始めた人がゴールデンウィークに積んでおく本](https://nowokay.hatenablog.com/entry/20120425/1335353327)
 - [プログラマの実力は経験だけであがらないことがレベル格差につながる](https://nowokay.hatenablog.com/entry/20121010/1349838665)
+- [データベース設計の基礎](http://www3.nit.ac.jp/~ohki/database/reference.html)
