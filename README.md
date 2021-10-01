@@ -112,3 +112,6 @@ hogehoge
 - [4月にプログラム始めた人がゴールデンウィークに積んでおく本](https://nowokay.hatenablog.com/entry/20120425/1335353327)
 - [プログラマの実力は経験だけであがらないことがレベル格差につながる](https://nowokay.hatenablog.com/entry/20121010/1349838665)
 - [データベース設計の基礎](http://www3.nit.ac.jp/~ohki/database/reference.html)
+
+### エンジニアの本棚
+- [@hilalium - l2](https://twitter.com/hikalium/status/1378371918986809344?s=20)
