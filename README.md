@@ -31,6 +31,7 @@ hogehoge
 
 ## Vim
 - [Vim日本語ガイド](https://vim-jp.org/vimdoc-ja/)
+- [missing semester - vim](https://missing-semester-jp.github.io/2020/editors/)
 
 ## 環境
 - [Vagrant Docs](https://www.vagrantup.com/docs)
