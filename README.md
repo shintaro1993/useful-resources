@@ -25,6 +25,7 @@ hogehoge
 ## Git
 - [Pro Git](https://git-scm.com/book/ja/v2)
 - [A Successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [missing semester - git](https://missing-semester-jp.github.io/2020/version-control/)
 
 ## GitHub
 - [GitHub Docs](https://docs.github.com/ja)
