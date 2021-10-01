@@ -34,6 +34,9 @@ hogehoge
 - [Vim日本語ガイド](https://vim-jp.org/vimdoc-ja/)
 - [missing semester - vim](https://missing-semester-jp.github.io/2020/editors/)
 
+## Shell
+- [Awesome Shell](https://github.com/alebcay/awesome-shell#shells)
+
 ## 環境
 - [Vagrant Docs](https://www.vagrantup.com/docs)
 
