@@ -67,6 +67,7 @@ hogehoge
 
 ### データベース
 - [CS186Berkeley](https://www.youtube.com/user/CS186Berkeley/playlists)
+- [筑波大学-ocw-データベース概論I](https://ocw.tsukuba.ac.jp/course/systeminformation/database-systems-i/)
 
 ### Software Debugging
 - [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
