@@ -28,7 +28,8 @@ hogehoge
 - [missing semester - git](https://missing-semester-jp.github.io/2020/version-control/)
 
 ## GitHub
-- [GitHub Docs](https://docs.github.com/ja)
+- [GitHub Docs Ja](https://docs.github.com/ja)
+- [GitHub Docs](https://docs.github.com/en)
 
 ## Vim
 - [Vim日本語ガイド](https://vim-jp.org/vimdoc-ja/)
