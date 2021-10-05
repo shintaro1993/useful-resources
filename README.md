@@ -37,6 +37,9 @@ hogehoge
 ## Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell#shells)
 
+## AWS
+- [コードで学ぶAWS入門](https://tomomano.github.io/learn-aws-by-coding/)
+
 ## 環境
 - [Vagrant Docs](https://www.vagrantup.com/docs)
 - [ocaml](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/pl/setup.html)
