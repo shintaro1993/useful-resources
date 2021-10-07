@@ -34,6 +34,7 @@ hogehoge
 ## Vim
 - [Vim日本語ガイド](https://vim-jp.org/vimdoc-ja/)
 - [missing semester - vim](https://missing-semester-jp.github.io/2020/editors/)
+- [vimを使うとき十字キーで移動して、vimmerに殺されるその前に](https://qiita.com/fasahina/items/2767891134028648f288)
 
 ## Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell#shells)
