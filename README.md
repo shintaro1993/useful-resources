@@ -67,6 +67,7 @@ hogehoge
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [OSSU](https://github.com/shintaro1993/computer-science)
+- [Code with Google](https://edu.google.com/code-with-google/)
 
 ### CS Tools
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
