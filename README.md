@@ -27,6 +27,9 @@ hogehoge
 ## C++
 - [C++の歩き方](https://cppmap.github.io/learn/online-resources/?utm_source=pocket_mylist)
 
+## SQL
+- [tutorialspoint - PostgreSQL](https://www.tutorialspoint.com/postgresql/index.htm)
+
 ## Git
 - [Pro Git](https://git-scm.com/book/ja/v2)
 - [A Successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
