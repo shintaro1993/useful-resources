@@ -19,6 +19,10 @@ hogehoge
 - [Python Document](https://docs.python.org/ja/3/)
 - [pep8-ja](https://pep8-ja.readthedocs.io/ja/latest/)
 
+## Java
+- [javatpoint - format()](https://www.javatpoint.com/java-string-format)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
 ## C++
 - [C++の歩き方](https://cppmap.github.io/learn/online-resources/?utm_source=pocket_mylist)
 
